@@ -1,5 +1,4 @@
 # Facebook on the Terminal
-This is a work in process.  If you'd like to collaborate, simply send in a fork request and I'll add you as a contributor!
 
 ## Motivation
 I was going through my screen time one day and noticed how much time I was spending on Facebook.  
