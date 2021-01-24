@@ -3,7 +3,7 @@
 ## Motivation
 I was going through my screen time one day and noticed how much time I was spending on Facebook.  
 
-I turned off my News Feed and started to deactivate my Facebook account.  One thing kept me coming back -- Facebook Messenger.  
+I turned off my News Feed, but one thing kept me coming back -- Facebook Messenger.  
 
 How, then, to best communicate with friends?  
 
