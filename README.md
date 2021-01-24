@@ -5,7 +5,7 @@ I was going through my screen time one day and noticed how much time I was spend
 
 I turned off my News Feed and started to deactivate my Facebook account.  One thing kept me coming back -- Facebook Messenger.  
 
-How, then, to best communicate with friends while not getting sucked by advertisements and the addicting UI/UX design of Facebook's own Messenger?  
+How, then, to best communicate with friends?  
 
 Enter Facebook on the Terminal.
 
