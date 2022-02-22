@@ -8,4 +8,7 @@ Suffice to say, this tool made online communication clean (memeless), productive
 
 These days, I use Signal Messenger as my de facto app of communication. In the meantime, I will leave this repo open for the open-source community. 
 
-All that is gold does not glitter, Not all those who wander are lost.
+```
+All that is gold does not glitter, 
+Not all those who wander are lost.
+```
