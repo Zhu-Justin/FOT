@@ -6,7 +6,7 @@ This original adaptation is from [Alex Rose's fb-messenger-cli](https://github.c
 
 Suffice to say, this tool made online communication clean (memeless), productive (non-addictive), and efficient (completely keyboard-driven). As we build communication tools for the future, we should work towards this ideal.
 
-These days, I use Signal Messenger as my de facto app of communication. In the meantime, I will leave this repo open for the open-source community. 
+These days, I use Signal Messenger as my de facto app of communication. In the meantime, I will leave this repo available for the open-source community. 
 
 ```
 All that is gold does not glitter, 
