@@ -20,7 +20,7 @@
     "system": "^1.0.4"
   },
   "devDependencies": {
-    "mocha": "2.4.x",
+    "mocha": "10.1.x",
     "chai": "3.5.x"
   },
   "bin": {
